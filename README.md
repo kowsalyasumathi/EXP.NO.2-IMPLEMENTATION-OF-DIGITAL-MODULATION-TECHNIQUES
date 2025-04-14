@@ -57,8 +57,11 @@ Demodulation:
 
 
 ## TABLE
+![table](https://github.com/user-attachments/assets/b27e4e1d-75b0-44f1-b98a-e11b6e2678a4)
 
 ## OUTPUT GRAPHS
+![output](https://github.com/user-attachments/assets/fd3b2abc-8836-4f2b-8d35-7c7c376d1576)
+![output](https://github.com/user-attachments/assets/b13952d0-a5ad-40b0-83fd-d950018c27fa)
 
 ## RESULT 
 Thus the sapmpling and reconstruction of the given input signal is done using different types of sampling techniques was verified successfully.
